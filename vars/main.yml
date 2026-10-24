@@ -14,4 +14,4 @@ packages:
   - vim
   - wget
 
-system_timezone: America/Detroit
+system_timezone: GMT+2
