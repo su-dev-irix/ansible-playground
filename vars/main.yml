@@ -14,4 +14,5 @@ packages:
   - vim
   - wget
 
-system_timezone: GMT+2
+#system_timezone: GMT+2
+system_timezone: Europe/Helsinki
